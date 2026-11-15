@@ -1,4 +1,4 @@
-# Stable Defusion Fine-Tuning Using DreamBooth
+# Stable Diffusion Fine-Tuning with DreamBooth: Menu Card Generator
 
 This project aims to fine-tune a stable diffusion model using **DreamBooth** to generate custom menu cards. The model is trained on a set of menu card images and is designed to create personalized menu cards based on the user's desired content, layout, and style.
 
@@ -42,8 +42,8 @@ To fine-tune the model, a dataset of menu cards is required. The dataset should 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Stable_Defusion_FineTuening_Using_DreamBooth.git
-    cd Stable_Defusion_FineTuening_Using_DreamBooth
+    git clone https://github.com/yourusername/Stable_Diffusion_FineTuening_Using_DreamBooth.git
+    cd Stable_Diffusion_FineTuening_Using_DreamBooth
     ```
 
 2. Install the dependencies:
